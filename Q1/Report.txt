@@ -1,0 +1,38 @@
+Speed of the Algorithms also depends on distribution of characters. For the DataSet used, the speed of 
+
+Boyer Moore-Bad Character  > boyer Moore-Good Suffix > KMP > Rabin Karps > Naive 
+
+DataSet-1 :
+Time for Naive 2
+ 
+Time for Rabin Karps 1
+  
+Time for KMP 1
+
+Time for Boyer Moore -Bad Character 1
+ 
+Time for Boyer Moore -Good Suffix 0
+
+
+Dataset-2 :
+
+Time for Naive 4
+
+Time for Rabin Karps 3
+
+Time for KMP 2
+
+Time for Boyer Moore -Bad Character 1
+
+Time for Boyer Moore -Good Suffix 2
+
+DataSet-3 :
+Time for Naive 18
+
+Time for Rabin Karps 10
+ 
+Time for KMP 7
+ 
+Time for Boyer Moore -Bad Character 2
+
+Time for Boyer Moore -Good Suffix 4

@@ -1,0 +1,33 @@
+Enter the Test String and Pattern:
+aabcabcdeabcabcdxabxdsabcabcdeabcabcdxabxdjdfnjkanfabcabcdeabcabcdxabcabcabcdeabcabcdxabmabcabcdeaabcabcdeasaabcabcdeabcabcdxabxdjfhjkdafndsvbjfbakjdsbvdabcabcdeabcabcdxabxdabcabcdeabcabcdxabsnavfjearfbdshbvscnvasdabcabcdeabcabcdxabjvbhdfbksdjfjdskfbasdhbfhdsafbjkdsabfkjdsabcabcdeabcabcdxabxdbfhdsfbhdfbghdbbadsufiKAJSNabcabcdeabcabcdxabDJKoiqjkwabcabcdeabcabcdxabxdqnemdsavcghabcabcdeabcabcdxabxdoiljkwabcabcdeaendsgqiuaOKabcabcdeaDJASasdfcmxkaabcabcdeabcabcdxabseuwrytgbvxcnabcabcdeabcabcdxabxdxksadfudyghvbabcabcdeaabcabcdeacnmxzlaaaaaplmqazxabcabcdeaswedcvfrtgbnhyujabcabcdeabcabcdxabxdm,iwqpoiuytrewqasdfghjkmnbvcxzasdfcvbgtreabcabcdeabcabcdxabxddfghjkmnbgtrfvcdeewsxcvvvbnmkiuytrewasdfghabcabcdeabcabcdxabjmabcabcdeanbvcxzawerfabcabcdeavbgtyhnmjuytresgjjwqaxcvbnmklopoiuytrabcabcdeabcabcdxababcabcdeabcabcdxabxdxdewqqasdfghjklabcabcdeabcabcdxabmnbvcxzaabcabcdeabcabcdxabxdsdfghjklpoiuytrewqazabcabcdeabcabcdxabxdxcvbnmkjhgabcabcdeabcabcdxabfdsaaaaabcabcdeaaaabcabcdeabcabcdxabxdsabcabcdeabcabcdxabxdjdfnjkanfabcabcdeabcabcdxabcabcabcdeabcabcdxabmabcabcdeaabcabcdeasaabcabcdeabcabcdxabxdjfhjkdafndsvbjfbakjdsbvdabcabcdeabcabcdxabxdabcabcdeabcabcdxabsnavfjearfbdshbvscnvasdabcabcdeabcabcdxabjvbhdfbksdjfjdskfbasdhbfhdsafbjkdsabfkjdsabcabcdeabcabcdxabxdbfhdsfbhdfbghdbbadsufiKAJSNabcabcdeabcabcdxabDJKoiqjkwabcabcdeabcabcdxabxdqnemdsavcghabcabcdeabcabcdxabxdoiljkwabcabcdeaendsgqiuaOKabcabcdeaDJASasdfcmxkaabcabcdeabcabcdxabseuwrytgbvxcnabcabcdeabcabcdxabxdxksadfudyghvbabcabcdeaabcabcdeacnmxzlaaaaaplmqazxabcabcdeaswedcvfrtgbnhyujabcabcdeabcabcdxabxdm,iwqpoiuytrewqasdfghjkmnbvcxzasdfcvbgtreabcabcdeabcabcdxabxddfghjkmnbgtrfvcdeewsxcvvvbnmkiuytrewasdfghabcabcdeabcabcdxabjmabcabcdeanbvcxzawerfabcabcdeavbgtyhnmjuytresgjjwqaxcvbnmklopoiuytrabcabcdeabcabcdxababcabcdeabcabcdxabxdxdewqqasdfghjklabcabcdeabcabcdxabmnbvcxzaabcabcdeabcabcdxabxdsdfghjklpoiuytrewqazabcabcdeabcabcdxabxdxcvbnmkjhgabcabcdeabcabcdxabfdsaaaaabcabcdeaa
+abcabcdeabcabcdxabxd
+ Select any one of the following Numbers
+0 - Run all Algorithms 
+1 - Naive 
+2 - Rabin Karps 
+3 - KMP 
+4 - Boyer Moore-Bad Char
+5-Boyer Moore-Good Suffix
+0
+Enter y/n to print pattern occurrence
+y
+Number of matches found :26
+1  22  109  153  273  347  378  477  571  632  
+Time for Naive 2
+
+Number of matches found :26
+1  22  109  153  273  347  378  477  571  632  
+Time for Rabin Karps 1
+
+Number of matches found :26
+1  22  109  153  273  347  378  477  571  632  
+Time for KMP 1
+
+Number of matches found :26
+1  22  109  153  273  347  378  477  571  632  
+Time for Boyer Moore -Bad Character 1
+
+Number of matches found :26
+1  22  109  153  273  347  378  477  571  632  
+Time for Boyer Moore -Good Suffix 0
+

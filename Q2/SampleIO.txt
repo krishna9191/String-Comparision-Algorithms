@@ -1,0 +1,58 @@
+Do you want to print status for add ,import and remove [y/n]
+y
+1
+newYork
+1
+newOrleans
+1
+newJersey
+1
+california
+3
+california
+2
+california
+3
+california
+1
+new
+1
+newYork
+1
+n
+5 
+input.txt
+0
+Select one of the following operations
+ 0- Exit
+ 1-add
+ 2-remove
+ 3-contains
+ 4-prefix 
+ 5-import
+Enter the word to add to Trie
+newYork successfully added
+Enter the word to add to Trie
+newOrleans successfully added
+Enter the word to add to Trie
+newJersey successfully added
+Enter the word to add to Trie
+california successfully added
+Enter the word to check contains
+true
+Enter the word to Remove
+california successfully removed
+Enter the word to check contains
+false
+Enter the word to add to Trie
+new successfully added
+Enter the word to add to Trie
+newYork successfully added
+Enter the word to add to Trie
+n successfully added
+Enter the file location
+sanjose successfully added
+Dallas successfully added
+Austin successfully added
+Houston successfully added
+Import Successful
